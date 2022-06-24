@@ -1,2 +1,0 @@
-module Rent_Cars {
-}
